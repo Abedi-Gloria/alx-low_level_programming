@@ -1,1 +1,1 @@
-Beginning c programming at ALX
+introductory c programming task
