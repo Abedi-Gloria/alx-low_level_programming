@@ -9,6 +9,7 @@ int main(void)
 {
 	char str[] = "_putchar";
 	int y;
+
 	y = 0;
 	while (str[y])
 		{
