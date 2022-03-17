@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*	main - check the code
-*	Description: print_alphabetis a function that contains characters for output
-*	Return: Always 0.
+*	print_alphabet: a function that prints characters in lower case
+*	Description: Uses the holberton header file, that brings in the _putchar
+*	Return: returns void.
 */
 void print_alphabet(void)
 	{
