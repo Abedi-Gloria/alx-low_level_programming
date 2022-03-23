@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * @_strlen - function for determinig length of a string
+ * _strlen - function for determinig length of a string
  *
  * @s: a string of characters
  * @i: int for counting
