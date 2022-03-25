@@ -3,9 +3,9 @@
 
 /**
  * _strcat - a pointer function which concatenates two strings
+ * 
  * @ dest: an array of characters 
  * @ src: an array of characters
- * 
  * Return: returns a pointer to the resulting string 
  */
 
